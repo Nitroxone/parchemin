@@ -11,7 +11,7 @@
     z-index: 0 !important;
 }
 .parcheminWrapper {
-    width: 100%;
+    flex-grow: 1;
     position: relative;
     height: 100%;
 }
