@@ -1,5 +1,5 @@
 /**
- * Parchemin is a small JS snippet that handles dynamic select pickers with a searchbar and AJAX interactions for ELFIC.
+ * Parchemin is a small JS snippet that handles dynamic select pickers with a searchbar and AJAX interactions for Boosted.
  * Please refer to the README.md file for all installation and usage instructions.
  * @author ntrx
  */
