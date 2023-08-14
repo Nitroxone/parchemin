@@ -1,0 +1,40 @@
+.parchemin {
+    position: absolute !important;
+    bottom: 0;
+    left: 50%;
+    display: block !important;
+    width: .5px !important;
+    height: 100% !important;
+    padding: 0 !important;
+    opacity: 0 !important;
+    border: none;
+    z-index: 0 !important;
+}
+.parcheminWrapper {
+    width: 100%;
+    position: relative;
+    height: 100%;
+}
+.parcheminButton {
+    padding: calc(.5rem - 1px) 1.875rem calc(.5rem + 1px) .625rem;
+}
+.parcheminButton::after {
+    display: none !important;
+}
+.parcheminList {
+    width: 100%;
+    max-height: 500px;
+    overflow-y: scroll;
+}
+.parcheminSearch {
+    position: sticky;
+    top: 0;
+}
+.parcheminStatus {
+    padding: calc(.5rem - 1px) .625rem calc(.5rem + 1px);
+    margin-bottom: 0;
+    font-size: 13px;
+}
+.parcheminOpt input[type="checkbox"] {
+    margin-right: 0.75em;
+}
