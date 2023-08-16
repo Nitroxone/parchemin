@@ -2,7 +2,7 @@
 # Parchemin
 
 
-Parchemin is a small, dependancy-free JS snippet that adds dynamic select pickers with a search bar and AJAX interactions for ELFIC. It is designed to be seamlessly integrated within a Boosted-based website.
+Parchemin is a small, dependancy-free JS snippet that adds dynamic select pickers with a search bar and AJAX interactions for Boosted. It is designed to be seamlessly integrated within a Boosted-based website.
 
 ## Prerequisites
 
